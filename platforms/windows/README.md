@@ -1,7 +1,3 @@
-# platform-engineering-lab
-
-This is a repository that contains the platform engineering lab Ansible playbooks, scripts, and other files to deploy a simple lab using VirtualBox, Vagrant, Ansible, K3s.
-
 ## Windows Installation
 
 The following instructions are for Windows based systems, these instructions should work on Windows 10 or 11 systems, but is currently tested for Windows 10, previous versions of Windows are untested.
