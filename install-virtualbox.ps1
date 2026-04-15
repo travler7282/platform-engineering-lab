@@ -1,4 +1,4 @@
-# Example PowerShell script to install or uninstall VirtualBox
+# PowerShell script to install or uninstall VirtualBox
 
 param(
     [string]$Action,
